@@ -1,5 +1,5 @@
 
-# Todo
+# Calculator
 
 Calculator is developed with Vite and React. I built this example to showcase event handlers, and useState. 
 
